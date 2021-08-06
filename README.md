@@ -1,5 +1,7 @@
 # DataScienceBlog
 Udacity Data science blog post project files
+The link to my blogpost is here: 
+https://medium.com/@philseim/happiness-what-does-the-data-tell-us-e88d519932c0
 
 ## Motivation
 

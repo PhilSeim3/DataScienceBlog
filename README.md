@@ -1,7 +1,7 @@
 # DataScienceBlog
 Udacity Data science blog post project files
 
-##Motivation
+## Motivation
 
 The purpose of this repository is to present my workings for the Udacity Data Science Nano degree Data Blog Assignment.
 The source of the data for these files were from Kaggle:
